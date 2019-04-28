@@ -1,0 +1,6 @@
+---
+# defaults file for while_true_do.sys_java
+
+wtd_sys_java_package: "java-openjdk"
+# State can be present|latest|absent
+wtd_sys_java_package_state: "present"
