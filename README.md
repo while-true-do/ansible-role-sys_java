@@ -56,6 +56,7 @@ git clone https://github.com/while-true-do/ansible-role-sys_java.git while_true_
 ---
 # defaults file for while_true_do.sys_java
 
+## Package Management
 wtd_sys_java_package: "java-openjdk"
 # State can be present|latest|absent
 wtd_sys_java_package_state: "present"
